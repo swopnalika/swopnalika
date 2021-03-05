@@ -1,4 +1,4 @@
 ### Hi there 👋 Thanks for Visiting Here ! ###    
-* 🔭 I’m currently working on ... Java8, Spring Boot,MySql  
-* 🌱 I’m currently learning ... Angular,mongoDb  
+* 🔭 I’m currently working on ... Html, Css, JavaScript, Angular  
+* 🌱 I’m currently learning ... NodeJs,mongoDb  
 * 📫 How to reach me: ... swopnalikamohapatra185@gmail.com  
